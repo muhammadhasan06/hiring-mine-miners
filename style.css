@@ -159,7 +159,7 @@ body {
     }
 
     .hamburger {
-        display: none;
+        display: block;
         padding-top: 5px;
         font-size: 20px;
     }
@@ -199,7 +199,7 @@ body {
     }
 
     .hamburger {
-        display: none;
+        display: block;
         padding-top: 5px;
         font-size: 20px;
     }
@@ -318,7 +318,7 @@ body {
     }
 
     .hamburger {
-        display: none;
+       display: block;
         padding-top: 5px;
         font-size: 20px;
     }
@@ -398,7 +398,7 @@ body {
     }
 
     .hamburger {
-        display: none;
+       display: block;
         padding-top: 5px;
         font-size: 18px;
     }
